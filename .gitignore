@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.bak
+
+settings.json
+proxies.txt
+注册成功记录.txt
+登录态记录.txt
+套餐状态.txt
+
+.workbuddy/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
